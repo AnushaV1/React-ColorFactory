@@ -1,0 +1,25 @@
+.ColorList {
+text-align: center;
+}
+
+.ColorList-header {
+    background-color: darkorange;
+    padding: 20px;
+    color: white;
+}
+.ColorList-header a {
+    color: white;
+}
+.ColorList-title {
+font-size: 1.2em;
+
+}
+
+.ColorList-intro {
+font-size: large;
+}
+
+ul {
+list-style : none;
+padding: 0;
+}

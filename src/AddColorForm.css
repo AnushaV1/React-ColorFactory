@@ -1,0 +1,19 @@
+.AddColor {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100vw;
+height: 100vh;
+flex-direction: column;
+background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+}
+.AddColor form {
+    width: 70%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.AddColor form div {
+    padding: 15px;
+}
